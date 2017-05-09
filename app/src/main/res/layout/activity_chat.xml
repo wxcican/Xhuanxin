@@ -7,7 +7,7 @@
     tools:context="com.fuicuiedu.xc.xhuanxin.ui.user.ChatActivity">
 
     <FrameLayout
-        android:id="@+id/chat_fl"
+        android:id="@+id/layout_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 

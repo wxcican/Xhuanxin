@@ -4,8 +4,8 @@
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_default_expression.png"
     },
     {
-        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_item_file.png",
-        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_item_file.png"
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_send_btn_normal.9.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_send_btn_normal.9.png"
     },
     {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_voice_call_self.png",
@@ -16,32 +16,36 @@
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chatting_biaoqing_btn_normal.png"
     },
     {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_close_icon.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_close_icon.png"
+    },
+    {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_location_pressed.png",
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_location_pressed.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_open_icon.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_open_icon.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_group_icon.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_group_icon.png"
     },
     {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_press_speak_btn_pressed.9.png",
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_press_speak_btn_pressed.9.png"
     },
     {
-        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_image_normal.png",
-        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_image_normal.png"
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_press_speak_btn_pressed.9.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_press_speak_btn_pressed.9.png"
     },
     {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_takepic_normal.png",
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_takepic_normal.png"
     },
     {
-        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_delete_expression.png",
-        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_delete_expression.png"
-    },
-    {
-        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_send_btn_pressed.9.png",
-        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_send_btn_pressed.9.png"
-    },
-    {
-        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_voice_call_receive.png",
-        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_voice_call_receive.png"
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_edit_normal.9.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_edit_normal.9.png"
     },
     {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_blue_add.png",
@@ -52,10 +56,6 @@
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_dot_emojicon_unselected.png"
     },
     {
-        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_open_icon.png",
-        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_open_icon.png"
-    },
-    {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_groups_icon.png",
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_groups_icon.png"
     },
@@ -64,24 +64,28 @@
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_group_icon.png"
     },
     {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_video_call_receive.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_video_call_receive.png"
+    },
+    {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_edit_normal.9.png",
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_edit_normal.9.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_image_pressed.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_image_pressed.png"
     },
     {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_video_call_self.png",
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_video_call_self.png"
     },
     {
-        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_location_normal.png",
-        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_location_normal.png"
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_location_pressed.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_location_pressed.png"
     },
     {
-        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_send_btn_normal.9.png",
-        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_send_btn_normal.9.png"
-    },
-    {
-        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_image_pressed.png",
-        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_image_pressed.png"
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_takepic_normal.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_takepic_normal.png"
     },
     {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_mm_title_remove.png",
@@ -96,6 +100,118 @@
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_dot_emojicon_selected.png"
     },
     {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chatting_biaoqing_btn_normal.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_voice_call_receive.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_voice_call_receive.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_blue_add.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_blue_add.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_voice_call_self.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_voice_call_self.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_image_normal.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_image_normal.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_dot_emojicon_selected.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_dot_emojicon_selected.png"
+    },
+    {
+        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_new_friends_icon.png",
+        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_new_friends_icon.png"
+    },
+    {
+        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_item_file.png",
+        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_item_file.png"
+    },
+    {
+        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_image_normal.png",
+        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_image_normal.png"
+    },
+    {
+        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_delete_expression.png",
+        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_delete_expression.png"
+    },
+    {
+        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_send_btn_pressed.9.png",
+        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_send_btn_pressed.9.png"
+    },
+    {
+        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_voice_call_receive.png",
+        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_voice_call_receive.png"
+    },
+    {
+        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_open_icon.png",
+        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_open_icon.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_takepic_pressed.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_takepic_pressed.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_groups_icon.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_groups_icon.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_press_speak_btn_normal.9.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_press_speak_btn_normal.9.png"
+    },
+    {
+        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_location_normal.png",
+        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_location_normal.png"
+    },
+    {
+        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_send_btn_normal.9.png",
+        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_send_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_new_friends_icon.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_new_friends_icon.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_default_expression.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_default_expression.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_location_normal.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_location_normal.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_dot_emojicon_unselected.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_dot_emojicon_unselected.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_item_file.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_item_file.png"
+    },
+    {
+        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_image_pressed.png",
+        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_image_pressed.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_mm_title_remove.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_mm_title_remove.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_default_avatar.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_default_avatar.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chatting_biaoqing_btn_enable.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_video_call_self.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_video_call_self.png"
+    },
+    {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_unread_dot.9.png",
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_unread_dot.9.png"
     },
@@ -108,8 +224,16 @@
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_close_icon.png"
     },
     {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_unread_dot.9.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_unread_dot.9.png"
+    },
+    {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_video_call_receive.png",
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_video_call_receive.png"
+    },
+    {
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_delete_expression.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_delete_expression.png"
     },
     {
         "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chatting_biaoqing_btn_enable.png",
@@ -120,7 +244,7 @@
         "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_takepic_pressed.png"
     },
     {
-        "merged": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_new_friends_icon.png",
-        "source": "F:\\WangXC\\InterView-Explain\\HuanXin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_new_friends_icon.png"
+        "merged": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ease_chat_send_btn_pressed.9.png",
+        "source": "E:\\My_Work\\FeiCuiedu\\InterView\\huanxin\\Xhuanxin\\easeUI_CN\\src\\main\\res\\drawable-xhdpi\\ease_chat_send_btn_pressed.9.png"
     }
 ]
